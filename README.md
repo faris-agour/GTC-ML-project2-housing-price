@@ -11,20 +11,13 @@ This project builds a machine learning model to predict house prices.
 ## Steps
 1. Load and explore the dataset.
 2. Perform preprocessing (handle missing values, feature scaling, etc.).
-3. Train regression models (Linear Regression, Random Forest, etc.).
-4. Evaluate performance (MSE, RMSE, R²).
+3. Train regression models (Linear Regression, Random Forest).
+4. Evaluate performance (MSE, R²).
 5. Document results with Markdown in the notebook.
 
-## How to Run
-- Open the `.ipynb` notebook in **Google Colab** or Jupyter.
-- Ensure `housing.csv` is in the same directory.
-- Run all cells to reproduce results.
 
 ## Objective
-Create a machine learning pipeline that predicts California housing prices based on provided features.
+Create a machine learning pipeline that predicts housing prices based on provided features.
 
----
 
-📌 Part of a course assignment:  
-**Submit the link to this GitHub repository.**
 
